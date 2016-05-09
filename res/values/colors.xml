@@ -18,7 +18,7 @@
     <color name="white">#ffffffff</color>
     <color name="off_white">#ffdedede</color>
     <color name="black">#ff000000</color>
-    <color name="grid_lines">#22ffffff</color>
+    <color name="grid_lines">#00000000</color>
     <color name="cb">#88bbffff</color>
     <color name="freq_hl">#2000ddff</color>
     <color name="freq_hl2">#4033b5e5</color>
@@ -29,6 +29,6 @@
     <color name="eq_holo_dark">#800099cc</color>
     <color name="cb_shader">#ffccffff</color>
     <color name="cb_shader_alpha">#44ccffff</color>
-    <color name="action_bar_divider">#e5e5e5</color>
+    <color name="action_bar_divider">#00000000</color>
 
 </resources>
